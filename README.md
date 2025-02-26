@@ -2,6 +2,7 @@
 
 An interactive Tableau dashboard visualizing Netflix sales data to uncover trends, revenue insights, and subscription patterns.
 
+[Dashboard](https://public.tableau.com/shared/8D6H7W73T?:display_count=n&:origin=viz_share_link)
 ## 📊 Project Overview
 This project aims to provide a comprehensive analysis of Netflix's sales performance using an engaging and interactive Tableau dashboard.
 
@@ -21,5 +22,5 @@ This project aims to provide a comprehensive analysis of Netflix's sales perform
    - Utilize interactive filters to gain deeper insights.
 
 ## 📸 Dashboard Preview
-![Netflix Sales Dashboard](./Images/netflix_dashboard.png)
 
+![alt text](https://github.com/mfatarsyah/Dashboard-Netflix-Sales/blob/main/Dashboard%20Netflix.png?raw=true)
